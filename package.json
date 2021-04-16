@@ -1,0 +1,19 @@
+{
+  "name": "auth-jwt-dev-ed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogaaaaaaa/Auth-JWT-Dev-Ed.git"
+  },
+  "author": "yoga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yogaaaaaaa/Auth-JWT-Dev-Ed/issues"
+  },
+  "homepage": "https://github.com/yogaaaaaaa/Auth-JWT-Dev-Ed#readme"
+}
